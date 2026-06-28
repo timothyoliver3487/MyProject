@@ -1,3 +1,1 @@
-vless://85203c8d-82a8-457e-9745-cb72f432b797@www.speedtest.net:443?encryption=none&security=tls&sni=theater-dpi-throw-mercury.trycloudflare.com&insecure=0&allowInsecure=0&type=ws&host=theater-dpi-throw-mercury.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2560#freezehost-vless
-
-hysteria2://85203c8d-82a8-457e-9745-cb72f432b797@94.249.197.222:10767?sni=time.android.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=crgv6l4jytm4bk63u1t3h9#freezehost-HY2
+vless://85203c8d-82a8-457e-9745-cb72f432b797@www.speedtest.net:443?encryption=none&security=tls&sni=advisors-cartridges-peas-nothing.trycloudflare.com&type=ws&host=advisors-cartridges-peas-nothing.trycloudflare.com&path=%2Fvless-argo%3Fed%3D2560#freezehost-vless
