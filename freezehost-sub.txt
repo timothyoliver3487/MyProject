@@ -1,2 +1,3 @@
-vless://2c2a7b71-d2f0-41a9-a6ff-85b5bdc9314a@15.204.51.206:15049?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.iij.ad.jp&fp=firefox&pbk=tXfdVZe_DPE3dXGunffhoAFCHf6WhxVoew8n6m_pqyQ&type=tcp&headerType=none#US-reality-lemehost.com
-anytls://2c2a7b71-d2f0-41a9-a6ff-85b5bdc9314a@15.204.51.206:15050?security=tls&sni=15.204.51.206&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US-tls-lemehost.com
+hysteria2://2c2a7b71-d2f0-41a9-a6ff-85b5bdc9314a@15.204.51.206:15051?sni=www.bing.com&insecure=1&allowInsecure=1#US-Hyst-lemehost.com
+vless://2c2a7b71-d2f0-41a9-a6ff-85b5bdc9314a@15.204.51.206:15049?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.iij.ad.jp&fp=firefox&pbk=g6TdSysX90_Yjh8NU_arKQOS6Hr8n2wgN7U_QYje9wU&type=tcp&headerType=none#US-Reality-lemehost.com
+anytls://2c2a7b71-d2f0-41a9-a6ff-85b5bdc9314a@15.204.51.206:15050?security=tls&sni=15.204.51.206&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#US-TLS-lemehost.com
